@@ -1,3 +1,4 @@
+
 # 🚀 Full-Stack App with Docker Compose
 
 Ce projet contient une application Full-Stack avec une partie **frontend (Angular)**, une partie **backend (Spring Boot)**, et une base de données **MySQL**.
